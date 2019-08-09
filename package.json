@@ -1,0 +1,30 @@
+{
+  "name": "@billow-software/express-tools",
+  "version": "0.1.0",
+  "description": "Utilities and helpers for Billow web apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Billow-Software/billow-express-tools.git"
+  },
+  "author": "Billow Software",
+  "contributors": [
+    "Nathan McCallum <nathan@billowsoftware.com.au>"
+  ],
+  "bugs": {
+    "url": "https://github.com/Billow-Software/billow-express-tools/issues"
+  },
+  "homepage": "https://github.com/Billow-Software/billow-express-tools#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
+  }
+}

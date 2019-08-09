@@ -1,0 +1,12 @@
+#
+# The following tells git to convert all files to LF line endings, except for any of our binary files
+# You can see the docs for this here: https://git-scm.com/docs/gitattributes
+#
+
+* text eol=lf
+
+#
+# The following are files that are auto-generated or otherwise vendor files that we are ignoring.
+# We do this so that the contribution numbers are not skewed by files that shouldn't count.
+#
+package-lock.json linguist-generated=true
