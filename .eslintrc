@@ -4,15 +4,6 @@
   "plugins": ["prettier"],
   "env": {
     "node": true,
-    "browser": true,
-    "es6": true,
-    "jest": true,
-  },
-  "settings": {
-    "import/resolver": {
-      "node": {
-        "paths": ["client/src"]
-      }
-    },
-  },
+    "es6": true
+  }
 }

@@ -12,6 +12,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "javascript.implicitProjectConfig.experimentalDecorators": true,
   "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
