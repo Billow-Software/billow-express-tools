@@ -5,4 +5,5 @@
 module.exports = {
   rez: require('./lib/rez'),
   lifesaver: require('./lib/lifesaver'),
+  asyncErrorCatcher: require('./lib/async-error-catcher'),
 };
