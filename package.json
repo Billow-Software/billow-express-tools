@@ -1,5 +1,5 @@
 {
-  "name": "express-tools",
+  "name": "billow-express-tools",
   "version": "2.0.0",
   "description": "Utilities and helpers for Billow web apps",
   "main": "index.js",
